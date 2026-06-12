@@ -46,8 +46,7 @@ This dashboard is part of a larger end to end project: [Employee Attrition Intel
 
 
 
-![Dashboard Screenshot](dashboard/screenshot.png)
-
+![Dashboard Screenshot](dashboard.png)
 ## Author
 
 Azli Khan

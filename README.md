@@ -45,8 +45,8 @@ This dashboard is part of a larger end to end project: [Employee Attrition Intel
 ## Screenshots
 
 
-```
-![Dashboard Screenshot](dashboard/screenshot.png)```
+
+![Dashboard Screenshot](dashboard/screenshot.png)
 
 ## Author
 
